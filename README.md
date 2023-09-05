@@ -6,8 +6,7 @@
 
 3.Se aplica back-up ul bazei de date din fisierul *DormApp.bak* din meniul de adaugare al unui back-up.
 
-4.Se descarca Visual Studio 2022 Enterprise Free Trial -[click]([https://visualstudio.microsoft.com/vs/enterprise/]
-(https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Enterprise&channel=Release&version=VS2022&source=VSLandingPage&cid=2414&workload=dotnetwebcloud&flight=FlipMacCodeCF;35d&installerFlight=FlipMacCodeCF;35d&passive=false#dotnet)https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Enterprise&channel=Release&version=VS2022&source=VSLandingPage&cid=2414&workload=dotnetwebcloud&flight=FlipMacCodeCF;35d&installerFlight=FlipMacCodeCF;35d&passive=false#dotnet)
+4.Se descarca Visual Studio 2022 Enterprise Free Trial [click](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Enterprise&channel=Release&version=VS2022&source=VSLandingPage&cid=2414&workload=dotnetwebcloud&flight=FlipMacCodeCF;35d&installerFlight=FlipMacCodeCF;35d&passive=false#dotnet)
 
 5.Se porneste installerul VS2002
 
